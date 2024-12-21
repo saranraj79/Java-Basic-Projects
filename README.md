@@ -1,2 +1,2 @@
 # Java-Basic-Projects
-Using Arrays and OOPs concept
+Using loops, Arrays and OOPs concept
